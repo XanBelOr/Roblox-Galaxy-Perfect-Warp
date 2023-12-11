@@ -10,6 +10,7 @@ for you to be caught is to have a screen recording of you using it. To ensure yo
 OBS and you can have it only record the Roblox screen, so it won't capture the script.
 
 **OBS Download:** https://obsproject.com/
+
 **Tutorial on how to record only specific windows:** https://www.youtube.com/watch?v=3iznaIB88AQ
 
 
