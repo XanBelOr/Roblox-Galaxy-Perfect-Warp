@@ -22,17 +22,23 @@ https://www.autohotkey.com/
 
 Use the provided "clipboardcords" script to obtain the X and Y coordinates of the GREEN "Activate (V)" button that appears during warping.
 Make sure you are hovering over the green part and not the white text.
+
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/786e437a-9342-464a-8211-f7b841e03d61)
 Replace 932 and 790 with the coordinates you got.
+
 
 
 ## Script Configuration:
 
 Right-click the "Pefect Warp 6.1" script and select "edit script."
+
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/7cdba3e9-295f-4644-b38a-d711c9c2a108)
+
 Enter the X coordinate at "Xcordhere" and the Y coordinate at "Ycordhere" in the script.
+
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/57a96a6a-3e87-4fec-89ea-860d8f882414)
 Save your changes by pressing Ctrl+S.
+
 
 # Screen Size Consistency:
 
@@ -44,6 +50,7 @@ With these steps, your Perfect Warp v6.1 script will be ready to use!
 Once your script is ready, press the numpadplus key. An input box will pop up. Type the warp value you want but
 divided by 1000. For example, typing "51" will warp you 51k. When you do, hit enter or press "ok" and the script will
 automatically time the warp for you.
+
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/a0d5cb5d-da09-4d4c-b585-8fe86551437e)
 
 
