@@ -13,7 +13,7 @@ Use the provided "clipboardcords" script to obtain the X and Y coordinates of th
 Make sure you are hovering over the green part and not the white text.
 Script Configuration:
 
-Right-click the "Pefect Warp 6.0" script and select "edit script."
+Right-click the "Pefect Warp 6.1" script and select "edit script."
 Enter the X coordinate at "Xcordhere" and the Y coordinate at "Ycordhere" in the script.
 Save your changes.
 Screen Size Consistency:
