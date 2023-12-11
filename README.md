@@ -34,9 +34,11 @@ Right-click the "Pefect Warp 6.1" script and select "edit script."
 
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/7cdba3e9-295f-4644-b38a-d711c9c2a108)
 
+
 Enter the X coordinate at "Xcordhere" and the Y coordinate at "Ycordhere" in the script.
 
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/57a96a6a-3e87-4fec-89ea-860d8f882414)
+
 Save your changes by pressing Ctrl+S.
 
 
