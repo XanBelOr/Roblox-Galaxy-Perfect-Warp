@@ -3,6 +3,13 @@ An AutoHotKey script that uses Galaxy's warp formula to automatically calculate 
 Welcome to Perfect Warp v6.1! This script will take your input of warp distance and use the warp formula to automatically
 calculate how long you need to wait to warp that far, then perform the warp for you, all automatically!
 
+
+## Will I get banned for using this?
+If you are caught, yes. However, since this script is NOT injected into your client, it is **undetectable**. The only way
+for you to be caught is to have a screen recording of you using it. To ensure you can still record your screen, download
+OBS and you can have it only record the Roblox screen, so it won't capture the script.
+
+
 ### Demonstration
 https://www.youtube.com/watch?v=qgx-sqr5XWk
 
@@ -69,12 +76,6 @@ more (or less) lag due to where the server is being hosted. To account for this,
 adjust the timing to account for this. If you overwarp, you're going to want to put in a NEGATIVE number, and if you
 underwarp, you're going to want to put in a POSITIVE number. It's unlikely you'll need a huge adjustment, so try to
 only give a small adjustment (like 5 ms or -5ms).
-
-## Will I get banned for using this?
-If you are caught, yes. However, since this script is NOT injected into your client, it is undetectable. The only way
-for you to be caught is to have a screen recording of you using it. To ensure you can still record your screen, download
-OBS and you can have it only record the Roblox screen, so it won't capture the script.
-
 
 
 
