@@ -9,6 +9,7 @@ calculate how long you need to wait to warp that far, then perform the warp for 
 # How does it work?
 This script uses the warp formula to calculate how long to wait before warping
 The formula is: 100*2^X
+
 When you press V, X starts at 1 and increments by 0.5 every 0.61313 seconds. (Basically each notch showing a number is an increase in X of 0.5.)
 
 # Getting Started with Perfect Warp v6.1
