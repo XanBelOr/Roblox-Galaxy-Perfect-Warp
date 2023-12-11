@@ -9,6 +9,9 @@ If you are caught, yes. However, since this script is NOT injected into your cli
 for you to be caught is to have a screen recording of you using it. To ensure you can still record your screen, download
 OBS and you can have it only record the Roblox screen, so it won't capture the script.
 
+**OBS Download:** https://obsproject.com/
+**Tutorial on how to record only specific windows:** https://www.youtube.com/watch?v=3iznaIB88AQ
+
 
 ### Demonstration
 https://www.youtube.com/watch?v=qgx-sqr5XWk
