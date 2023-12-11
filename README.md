@@ -39,6 +39,7 @@ Enter the X coordinate at "Xcordhere" and the Y coordinate at "Ycordhere" in the
 
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/57a96a6a-3e87-4fec-89ea-860d8f882414)
 
+
 Save your changes by pressing Ctrl+S.
 
 
