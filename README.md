@@ -24,6 +24,7 @@ Use the provided "clipboardcords" script to obtain the X and Y coordinates of th
 Make sure you are hovering over the green part and not the white text.
 
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/786e437a-9342-464a-8211-f7b841e03d61)
+
 Replace 932 and 790 with the coordinates you got.
 
 
