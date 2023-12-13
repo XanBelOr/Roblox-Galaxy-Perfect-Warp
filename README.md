@@ -43,14 +43,18 @@ is to make sure that all the contents in the "Perfect Warp V6.1.1" remain in the
 so the script can reference them. To setup your coordinates is very simple. You're going to want
 to run the "setup_coords" script.
 
+
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/c0185d44-0785-47af-b09b-f25e66c940a3)
+
 
 Once that is running, you should see a tooltip giving you directions. You're going to want to
 go into Galaxy, hover over the GREEN "Activate (V)" button that appears during warping. Make sure 
 you are hovering over the green part and not the white text. Once you are, simply press CTRL+J and
 your script will automatically record the coordinates, and the script is ready for use!
 
+
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/fbf3da82-f9aa-4531-8531-d5ee9e9680af)
+
 
 # Screen Size Consistency:
 
