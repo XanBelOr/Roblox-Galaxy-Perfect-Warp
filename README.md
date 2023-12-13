@@ -38,29 +38,19 @@ https://www.autohotkey.com/
 
 ## Coordinate Setup:
 
-Use the provided "clipboardcords" script to obtain the X and Y coordinates of the GREEN "Activate (V)" button that appears during warping.
-Make sure you are hovering over the green part and not the white text.
+After release V6.1.1, coordinate setup is as easy as ever. The first and most important thing
+is to make sure that all the contents in the "Perfect Warp V6.1.1" remain in the same folder
+so the script can reference them. To setup your coordinates is very simple. You're going to want
+to run the "setup_coords" script.
 
-![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/786e437a-9342-464a-8211-f7b841e03d61)
+![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/c0185d44-0785-47af-b09b-f25e66c940a3)
 
-Replace 932 and 790 with the coordinates you got.
+Once that is running, you should see a tooltip giving you directions. You're going to want to
+go into Galaxy, hover over the GREEN "Activate (V)" button that appears during warping. Make sure 
+you are hovering over the green part and not the white text. Once you are, simply press CTRL+J and
+your script will automatically record the coordinates, and the script is ready for use!
 
-
-
-## Script Configuration:
-
-Right-click the "Pefect Warp 6.1" script and select "edit script."
-
-![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/7cdba3e9-295f-4644-b38a-d711c9c2a108)
-
-
-Enter the X coordinate at "Xcordhere" and the Y coordinate at "Ycordhere" in the script.
-
-![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/57a96a6a-3e87-4fec-89ea-860d8f882414)
-
-
-Save your changes by pressing Ctrl+S.
-
+![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/fbf3da82-f9aa-4531-8531-d5ee9e9680af)
 
 # Screen Size Consistency:
 
