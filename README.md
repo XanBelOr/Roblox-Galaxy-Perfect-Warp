@@ -1,6 +1,6 @@
 # Roblox-Galaxy-Perfect-Warp
 An AutoHotKey script that uses Galaxy's warp formula to automatically calculate and warp any distance with very good accuracy.
-Welcome to Perfect Warp v6.1! This script will take your input of warp distance and use the warp formula to automatically
+Welcome to Perfect Warp v6.1.1! This script will take your input of warp distance and use the warp formula to automatically
 calculate how long you need to wait to warp that far, then perform the warp for you, all automatically!
 
 
@@ -30,7 +30,7 @@ The formula is: `100*2^X`
 
 When you press V, X starts at 1 and increments by 0.5 every 0.61313 seconds. (Basically each notch showing a number is an increase in X of 0.5.)
 
-# Getting Started with Perfect Warp v6.1
+# Getting Started with Perfect Warp v6.1.1
 
 ## Download AutoHotKey:
 If you haven't already, download AutoHotKey. Here's the link to the official website:
@@ -60,7 +60,7 @@ your script will automatically record the coordinates, and the script is ready f
 
 Perform the setup in your preferred screen size.
 The script will work only in the screen size used during setup. For instance, if you set it up in fullscreen, make sure to always use it in fullscreen.
-With these steps, your Perfect Warp v6.1 script will be ready to use!
+With these steps, your Perfect Warp v6.1.1 script will be ready to use!
 
 ## How to use:
 Once your script is ready, press the numpadplus key. An input box will pop up. Type the warp value you want but
