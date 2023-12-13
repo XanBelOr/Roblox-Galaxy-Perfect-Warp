@@ -1,0 +1,1 @@
+It's important that you keep these files in the same folder, or it may not be able to call on the settings files they need.
