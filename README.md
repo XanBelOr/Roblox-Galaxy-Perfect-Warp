@@ -20,7 +20,7 @@ OBS and you can have it only record the Roblox screen, so it won't capture the s
 ### Demonstration
 https://www.youtube.com/watch?v=qgx-sqr5XWk
 
-# [Go to Download](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/releases/tag/PW6.1)
+# [Go to Download](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/releases/tag/PW6.1.1)
 ### Note: The script requires a little bit of setup
 
 # How does it work?
