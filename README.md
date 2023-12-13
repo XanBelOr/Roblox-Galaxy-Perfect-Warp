@@ -41,7 +41,7 @@ https://www.autohotkey.com/
 After release V6.1.1, coordinate setup is as easy as ever. The first and most important thing
 is to make sure that all the contents in the "Perfect Warp V6.1.1" remain in the same folder
 so the script can reference them. To setup your coordinates is very simple. You're going to want
-to run the "setup_coords" script.
+to run the "setup_coords" script. (If you already set it up with V6.1, there's no need to get V6.1.1)
 
 
 ![image](https://github.com/XanBelOr/Roblox-Galaxy-Perfect-Warp/assets/40677753/c0185d44-0785-47af-b09b-f25e66c940a3)
