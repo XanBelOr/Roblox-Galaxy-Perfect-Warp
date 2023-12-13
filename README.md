@@ -48,8 +48,8 @@ to run the "setup_coords" script.
 
 
 Once that is running, you should see a tooltip giving you directions. You're going to want to
-go into Galaxy, hover over the GREEN "Activate (V)" button that appears during warping. Make sure 
-you are hovering over the green part and not the white text. Once you are, simply press CTRL+J and
+go into Galaxy, press V to initiate a warp, and hover over the GREEN "Activate (V)" button that appears during warping. 
+Make sure you are hovering over the green part and not the white text. Once you are, simply press CTRL+J and
 your script will automatically record the coordinates, and the script is ready for use!
 
 
