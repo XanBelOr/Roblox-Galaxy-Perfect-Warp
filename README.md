@@ -78,5 +78,38 @@ adjust the timing to account for this. If you overwarp, you're going to want to 
 underwarp, you're going to want to put in a POSITIVE number. It's unlikely you'll need a huge adjustment, so try to
 only give a small adjustment (like 5 ms or -5ms).
 
+# In depth explanation
+The Galaxy developers think that I do not have the correct warp formula. This should show that this is indeed the correct formula. (100*2^x)
+To prove the warp equation works, you can test the values with all the X values that are shown on the warp bar (remember, it starts at 1 and
+increases by 0.5 for each "notch" on the warp bar that shows a value. The values displayed on the bar are rounded for simplicity.
+Feel free to verify these on a calculator
 
+```
+100*2^1 = 200
+100*2^1.5 = ~282.8427 (shown as 283 on warp bar)
+100*2^2 = 400
+100*2^2.5 = ~565.6284 (shown as 566)
+100*2^3 = 800
+100*2^3.5 = ~1131.37 (shown as 1.1K)
+100*2^4 = 1600
+100*2^4.5 = ~2262.74 (shown as 2.3K)
+100*2^5 = 3200
+100*2^5.5 = ~4525.48 (shown as 4.5K)
+100*2^6 = 6400
+100*2^6.5 = ~9050.97 (shown as 9.1K)
+100*2^7 = 12800 (shown as 13K)
+100*2^7.5 = ~18101.93 (shown as 18K)
+100*2^8 = 25600 (shown as 26K)
+100*2^8.5 = ~36203.87 (shown as 36K)
+100*2^9 = 51200 (shown as 51K)
+100*2^9.5 = ~72407.73 (shown as 72K)
+100*2^10 = 102400 (shown as 102K)
+100*2^10.5 = ~144815.47 (shown as 145K)
+100*2^11 = 204800 (shown as 205K)
+100*2^11.5 = ~289630.94 (shown as 290K)
+100*2^12 = 409600 (shown as 410K
+```
+As you can see here, the equation is consistent with all the values on the warp bar, which were rounded. Then the script takes into
+consideration that X starts at 1 and increases by 0.5 every 0.61313 seconds (0.81482 per second), then it calculates the amount of time
+needed to warp the distance you entered. 
 
