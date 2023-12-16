@@ -82,7 +82,7 @@ only give a small adjustment (like 5 ms or -5ms).
 The Galaxy developers think that I do not have the correct warp formula. This explanation should show that this is indeed the correct formula (100*2^x).
 To prove the warp equation works, you can test the values with all the X values that are shown on the warp bar. Remember, it starts at 1 and
 increases by 0.5 for each "notch" on the warp bar that shows a value. The values displayed on the bar are rounded for simplicity.
-Feel free to verify these on a calculator
+Feel free to verify these on a calculator.
 
 ```
 100*2^1 = 200
