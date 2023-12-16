@@ -35,7 +35,14 @@ increases by 0.5 for each "notch" on the warp bar that shows a value. The values
 Feel free to verify these on a calculator
 
 ```
-test
+100*2^1 = 200
+100*2^1.5 = ~282.8427 (shown as 283 on warp bar)
+100*2^2 = 400
+100*2^2.5 = ~565.6284 (shown as 566)
+100*2^3 = 800
+100*2^3.5 = ~1131.37 (shown as 1.1K)
+100*2^4 = 1600
+100*2^4.5 = ~2262.74 (shown as 2.3K)
 ```
 
 # Getting Started with Perfect Warp v6.1.1
