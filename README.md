@@ -30,6 +30,14 @@ The formula is: `100*2^X`
 
 When you press V, X starts at 1 and increments by 0.5 every 0.61313 seconds. (Basically each notch showing a number is an increase in X of 0.5.)
 
+To prove the warp equation works, you can test the values with all the X values that are shown on the warp bar (remember, it starts at 1 and
+increases by 0.5 for each "notch" on the warp bar that shows a value. The values displayed on the bar are rounded for simplicity.
+Feel free to verify these on a calculator
+
+```
+test
+```
+
 # Getting Started with Perfect Warp v6.1.1
 
 ## Download AutoHotKey:
