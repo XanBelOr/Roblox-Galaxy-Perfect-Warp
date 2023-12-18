@@ -30,6 +30,21 @@ The formula is: `100*2^X`
 
 When you press V, X starts at 1 and increments by 0.5 every 0.61313 seconds. (Basically each notch showing a number is an increase in X of 0.5.)
 
+To prove the warp equation works, you can test the values with all the X values that are shown on the warp bar (remember, it starts at 1 and
+increases by 0.5 for each "notch" on the warp bar that shows a value. The values displayed on the bar are rounded for simplicity.
+Feel free to verify these on a calculator
+
+```
+100*2^1 = 200
+100*2^1.5 = ~282.8427 (shown as 283 on warp bar)
+100*2^2 = 400
+100*2^2.5 = ~565.6284 (shown as 566)
+100*2^3 = 800
+100*2^3.5 = ~1131.37 (shown as 1.1K)
+100*2^4 = 1600
+100*2^4.5 = ~2262.74 (shown as 2.3K)
+```
+
 # Getting Started with Perfect Warp v6.1.1
 
 ## Download AutoHotKey:
