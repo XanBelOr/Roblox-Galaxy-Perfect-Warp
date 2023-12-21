@@ -76,7 +76,7 @@ In most cases, the script should be accurate enough to work without any adjustme
 more (or less) lag due to where the server is being hosted. To account for this, I have added a second box to manually
 adjust the timing to account for this. If you overwarp, you're going to want to put in a NEGATIVE number, and if you
 underwarp, you're going to want to put in a POSITIVE number. It's unlikely you'll need a huge adjustment, so try to
-only give a small adjustment (like 5 ms or -5ms).
+only give a small adjustment (like 2 ms or -2ms).
 
 # In depth explanation
 The Galaxy developers think that I do not have the correct warp formula. This explanation should show that this is indeed the correct formula (100*2^x).
